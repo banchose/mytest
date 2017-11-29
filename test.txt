@@ -1,6 +1,7 @@
 Added this line first
 Added a second line
 Added a third line
+<<<<<<< HEAD
 
 
 
@@ -8,3 +9,7 @@ Added a third line
 
 
 added sixth line on master
+=======
+Added a forth line after branching to NewFeature
+Added a fith line after branching to NewFeature
+>>>>>>> newfeature
