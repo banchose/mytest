@@ -1,3 +1,4 @@
 Added this line first
 Added a second line
 Added a third line
+Added a forth line after branching to NewFeature
